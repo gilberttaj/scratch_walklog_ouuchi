@@ -1,0 +1,41 @@
+.header_1 {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.header_1_image {
+    margin-right:5px;
+}
+
+.nav_container{
+    display:flex;
+}
+
+.nav_left{
+    display:flex;
+}
+
+.nav_middle{
+    display:flex;
+    margin-left:20%;
+}
+
+.nav_right{
+    margin-left:auto;
+}
+
+.nav_left_image {
+    background: url('./Layer_1.png');
+    height: 50px;
+    width: 50px;
+    display: block;
+    background-color: rgba(63,172,6,1);
+    /* fill: rgba(63,172,6,1) */
+    /* Other styles here */
+}
+
+.nav_middle_text{
+    padding-left: 20px;
+    padding-right: 20px;
+}
